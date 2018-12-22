@@ -1,6 +1,0 @@
-import java.lang.Scanner
-public class Instantiation {
-    public static void main(String[] args) { 
-        Circle spot = new Circle(4)
-    }
-}
