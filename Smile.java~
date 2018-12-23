@@ -1,5 +1,0 @@
-public class Smile {
-    public static void main(String[] args) { 
-        System.out.format("%16s", "****");
-    }
-}
