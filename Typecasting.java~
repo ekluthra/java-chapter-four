@@ -1,8 +1,0 @@
-public class Typecasting {
-    public static void main(String[] args) { 
-        int i = 2;
-        double d = 3.7;
-        int x;
-        x = i * (int)d;
-    }
-}
